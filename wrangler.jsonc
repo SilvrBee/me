@@ -1,6 +1,8 @@
 {
   "name": "me",
   "compatibility_date": "2026-11-24",
+  "workers_dev": true,
+  "preview_urls": false,
   "assets": {
     "directory": "./public"
   }
